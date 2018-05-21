@@ -1,16 +1,16 @@
 {
     "version": "2",
-    "player": "N8axwZHA",
+    "player": "1Zy6iYYU",
     "theme": "light",
-    "siteName": "JW Showcase",
-    "description": "JW Showcase is an open-source, dynamically generated video website built around JW Player and JW Platform services. It enables you to easily publish your JW Player-hosted video content with no coding and minimal configuration.",
+    "siteName": "radio lokal",
+    "description": "radio lokal is an open-source, dynamically generated video website built around JW Player and JW Platform services. It enables you to easily publish your JW Player-hosted video content with no coding and minimal configuration.",
     "footerText": "Powered by JW Player",
-    "searchPlaylist": "r3MhKJyA",
-    "recommendationsPlaylist": "wZuMVmMk",
+    "searchPlaylist": "5UJ6sJwv",
+    "recommendationsPlaylist": "5UJ6sJwv",
     "options": {
         "showcaseContentOnly": true,
-        "backgroundColor": "",
-        "highlightColor": "",
+        "backgroundColor": "default",
+        "highlightColor": "true",
         "enableContinueWatching": true,
         "enableAddToHome": false,
         "useRecommendationPlaylist": false,
@@ -27,23 +27,50 @@
     },
     "content": [
         {
-            "playlistId": "WXu7kuaW",
+            "playlistId": "5UJ6sJwv",
             "featured": true,
             "enableText": false
         },
         {
-            "playlistId": "lrYLc95e",
+            "playlistId": "SZ9iaPQD",
             "aspectratio": "23",
             "cols": {"xs": 2, "sm": 3, "md": 4, "lg": 5, "xl": 6}
         },
         {
-            "playlistId": "Q352cyuc",
+            "playlistId": "U2z7cRcb",
             "type": "grid",
             "enableSeeAll": true,
             "rows": 1
         },
         {
-            "playlistId": "oR7ahO0J"
+            "playlistId": "M5jqmWPz"
+        }
+         {
+            "playlistId": "4QbNAnSK",
+            "type": "grid",
+            "enableSeeAll": true,
+            "rows": 1
+        },
+        {
+            "playlistId": "PDtalKDo"
+        }
+         {
+            "playlistId": "BrI5mmQg",
+            "type": "grid",
+            "enableSeeAll": true,
+            "rows": 1
+        },
+        {
+            "playlistId": "Hupti9BA"
+        }
+         {
+            "playlistId": "Siduuull",
+            "type": "grid",
+            "enableSeeAll": true,
+            "rows": 1
+        },
+        {
+            "playlistId": "buHuQsPl"
         }
     ],
     "assets": {
